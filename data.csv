@@ -1,0 +1,33 @@
+Activity,Fuel,Unit,Total kg CO2e per unit,kg CO2e of CO2 per unit,kg CO2e of CH4 per unit,kg CO2e of N2O per unit
+Gaseous fuels,Butane,tonnes,3033.32,3029.26,2.25,1.8
+Gaseous fuels,Butane,litres,1.75,1.74,0.1,0.1
+Gaseous fuels,Butane,kWh (Net CV),0.24,0.24,0.1,0.1
+Gaseous fuels,Butane,kWh (Gross CV),0.22,0.22,0.1,0.1
+Gaseous fuels,CNG,tonnes,2539.25,2534.47,3.44,1.34
+Gaseous fuels,CNG,litres,0.44,0.44353,0.0006,0.00023
+Gaseous fuels,CNG,kWh (Net CV),0.2,0.20188,0.00028,0.00011
+Gaseous fuels,CNG,kWh (Gross CV),0.18,0.18219,0.00025,0.0001
+Gaseous fuels,LNG,tonnes,2559.17,2554.39,3.44,1.34
+Gaseous fuels,LNG,litres,1.16,1.15583,0.00156,0.00061
+Gaseous fuels,LNG,kWh (Net CV),0.2,0.20347,0.00028,0.00011
+Gaseous fuels,LNG,kWh (Gross CV),0.18,0.18362,0.00025,0.0001
+Gaseous fuels,LPG,tonnes,2939.29,2935.18,2.28,1.83
+Gaseous fuels,LPG,litres,1.56,1.55491,0.00121,0.00097
+Gaseous fuels,LPG,kWh (Net CV),0.23,0.22999,0.00018,0.00014
+Gaseous fuels,LPG,kWh (Gross CV),0.21,0.21419,0.00017,0.00013
+Gaseous fuels,Natural gas,tonnes,2539.25,2534.47,3.44,1.34
+Gaseous fuels,Natural gas,cubic metres,2.02,2.01193,0.00274,0.00107
+Gaseous fuels,Natural gas,kWh (Net CV),0.2,0.20188,0.00028,0.00011
+Gaseous fuels,Natural gas,kWh (Gross CV),0.18,0.18219,0.00025,0.0001
+Gaseous fuels,Natural gas (100% mineral blend),tonnes,2559.17,2554.39,3.44,1.34
+Gaseous fuels,Natural gas (100% mineral blend),cubic metres,2.03,2.02774,0.00274,0.00107
+Gaseous fuels,Natural gas (100% mineral blend),kWh (Net CV),0.2,0.20347,0.00028,0.00011
+Gaseous fuels,Natural gas (100% mineral blend),kWh (Gross CV),0.18,0.18362,0.00025,0.0001
+Gaseous fuels,Other petroleum gas,tonnes,2578.25,2575.7,1.17,1.39
+Gaseous fuels,Other petroleum gas,litres,0.94,0.94348,0.00043,0.00051
+Gaseous fuels,Other petroleum gas,kWh (Net CV),0.2,0.19897,0.00009,0.00011
+Gaseous fuels,Other petroleum gas,kWh (Gross CV),0.18,0.18305,0.00008,0.0001
+Gaseous fuels,Propane,tonnes,2997.55,2993.4,2.31,1.85
+Gaseous fuels,Propane,litres,1.54,1.5414,0.00119,0.00095
+Gaseous fuels,Propane,kWh (Net CV),0.23,0.23225,0.00018,0.00014
+Gaseous fuels,Propane,kWh (Gross CV),0.21,0.21381,0.00016,0.00013
